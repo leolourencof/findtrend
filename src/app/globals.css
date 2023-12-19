@@ -49,10 +49,10 @@ span {
 
 @keyframes r-sliding-animation {
   0% {
-    transform: translateX(0);
+    transform: translateX(68px);
   }
 
   100% {
-    transform: translateX(-12px);
+    transform: translateX(0);
   }
 }
