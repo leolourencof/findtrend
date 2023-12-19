@@ -53,6 +53,6 @@ span {
   }
 
   100% {
-    transform: translateX(12px);
+    transform: translateX(-12px);
   }
 }
