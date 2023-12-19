@@ -43,13 +43,13 @@ span {
   }
 
   100% {
-    transform: translateX(12px);
+    transform: translateX(0);
   }
 }
 
 @keyframes r-sliding-animation {
   0% {
-    transform: translateX(68px);
+    transform: translateX(0);
   }
 
   100% {
